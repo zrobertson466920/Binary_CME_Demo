@@ -2,10 +2,6 @@ Certainly! Below is a comprehensive **README** for your Streamlit demo project t
 
 ---
 
-# Binary Classifier Metric Elicitation Demo
-
-![Project Logo](https://via.placeholder.com/150) *(Replace with your project logo if available)*
-
 ## Table of Contents
 
 - [Overview](#overview)
